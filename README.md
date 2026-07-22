@@ -1,4 +1,4 @@
-# MultiPurposeWebsite (Being worked on)
+# MultiPurposeWebsite (on development)
 
 Python (backend),
 HTML + JS + CSS (frontend),
