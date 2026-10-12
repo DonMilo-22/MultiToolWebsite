@@ -1,10 +1,25 @@
-# MultiPurposeWebsite (on development)
+# MultiToolWebsite
 
-Python (backend),
-HTML + JS + CSS (frontend),
-Render (deploy)
---
+Idea de una web de utilidades para archivos, inicialmente motivada por la necesidad de descomprimir archivos RAR en macOS.
 
-So I wanted to unzip a rar file on my MacBook but I had to pay for a tool, so I said "nah" and got the idea to just make my own
---
-nvm, change of plans, looks like i will be using html + js + css and python to make this website, i wanted to use php but render (the website i will be uploading my proyect on) doesn't really supports php, i mean it does but it's more complicated
+## Estado actual
+
+Pendiente de implementación. El repositorio contiene únicamente este README; todavía no incluye código ejecutable, dependencias, pruebas ni una demo.
+
+## Propuesta técnica
+
+- Interfaz con HTML, CSS y JavaScript.
+- Backend con Python.
+- Evaluar Render como opción de alojamiento cuando exista una implementación.
+
+Estas tecnologías son una propuesta, no componentes ya implementados.
+
+## Próximos pasos
+
+1. Definir formatos y límites de archivos que se admitirán.
+2. Implementar una utilidad mínima y sus pruebas.
+3. Documentar instalación, uso y despliegue cuando sean reproducibles.
+
+## Autor y licencia
+
+Desarrollado por [DonMilo-22](https://github.com/DonMilo-22). No se declara una licencia explícita.
